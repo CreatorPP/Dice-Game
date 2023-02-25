@@ -1,0 +1,37 @@
+[
+   {
+      "index":0,
+      "card":"무인도 탈출",
+      "card contents":"무인도에서 바로 나올수 있습니다.(1회)"
+   },
+   {
+      "index":1,
+      "card":"무인도",
+      "card contents":"폭풍을 만났습니다.무인도로 가세요."
+   },
+   {
+      "index":2,
+      "card":"관광여행",
+      "card contents":"제주도로 가세요."
+   },
+   {
+      "index":3,
+      "card":"뒤로가기",
+      "card contents":"뒤로 2칸 돌아가세요."
+   },
+   {
+      "index":4,
+      "card":"우대권",
+      "card contents":"상대방 건물 비용을 내지않습니다."
+   },
+   {
+      "index":5,
+      "card":"항공여행",
+      "card contents":"여행기를 타러가세요."
+   },
+   {
+      "index":6,
+      "card":"복지기금",
+      "card contents":"복지기금에가서 기부를 하세요."
+   }
+]

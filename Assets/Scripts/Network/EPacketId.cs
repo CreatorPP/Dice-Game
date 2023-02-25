@@ -1,0 +1,8 @@
+﻿public enum EPacketId
+{
+	NONE,
+	ROLL_DICE_REQUEST,
+	ROLL_DICE_RESPONSE,
+	CHANGE_TURN_NOTI,
+	MAX = CHANGE_TURN_NOTI + 1,
+}
